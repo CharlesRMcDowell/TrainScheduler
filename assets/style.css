@@ -1,0 +1,11 @@
+.jumbotron {
+  background-color: #85BDA6;
+}
+
+h1.display-4 {
+  font-weight: bolder;
+}
+
+p.lead {
+  font-weight: bold;
+}
